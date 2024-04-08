@@ -1,0 +1,180 @@
+{"id": 0, "questions": "In what year was Houari Boumediene born?", "answers": ["1820", "1828", "1838", "1932"], "label": 3, "original_lang": "ar", "sent_lang": "en"}
+{"id": 1, "questions": "In what year was Cleopatra born?", "answers": ["1799", "1523", "1876", "69 BC"], "label": 3, "original_lang": "ar", "sent_lang": "en"}
+{"id": 2, "questions": "In what year was Anwar Sadat born?", "answers": ["69 BC", "1895", "1918", "830"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 3, "questions": "In what year was Gamal Abdel Nasser born?", "answers": ["1537", "1918", "1678", "1534"], "label": 1, "original_lang": "ar", "sent_lang": "en"}
+{"id": 4, "questions": "In what year was Tutankhamon born?", "answers": ["1895", "1912", "1341 BC", "1897"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 5, "questions": "In what year was Boutros Boutros-Ghali born?", "answers": ["1922", "259 BC", "1475", "1844"], "label": 0, "original_lang": "ar", "sent_lang": "en"}
+{"id": 6, "questions": "In what year was Ramesses II born?", "answers": ["1859", "967", "1303 BC", "1920"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 7, "questions": "In what year was Hussein I of Jordan born?", "answers": ["1638", "1584", "1935", "1756"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 8, "questions": "In what year was Omar Sharif born?", "answers": ["1303 BC", "1909", "1932", "1713"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 9, "questions": "In what year was Saad Zaghloul born?", "answers": ["1859", "1874", "1839", "1894"], "label": 0, "original_lang": "ar", "sent_lang": "en"}
+{"id": 10, "questions": "In what year was Chiang Kai-shek born?", "answers": ["1735", "1828", "1887", "1638"], "label": 2, "original_lang": "zh", "sent_lang": "en"}
+{"id": 11, "questions": "In what year was Mao Zedong born?", "answers": ["1893", "161", "1769", "1566"], "label": 0, "original_lang": "zh", "sent_lang": "en"}
+{"id": 12, "questions": "In what year was Sun Yat-sen born?", "answers": ["1839", "1866", "1918", "1818"], "label": 1, "original_lang": "zh", "sent_lang": "en"}
+{"id": 13, "questions": "In what year was Zheng He born?", "answers": ["1534", "1932", "1909", "1371"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 14, "questions": "In what year was Hongwu Emperor born?", "answers": ["1328", "1885", "1452", "69 BC"], "label": 0, "original_lang": "zh", "sent_lang": "en"}
+{"id": 15, "questions": "In what year was Emperor Wu of Han born?", "answers": ["156 BC", "1534", "1728", "1901"], "label": 0, "original_lang": "zh", "sent_lang": "en"}
+{"id": 16, "questions": "In what year was Confucius born?", "answers": ["69 BC", "1564", "551 BC", "1910"], "label": 2, "original_lang": "zh", "sent_lang": "en"}
+{"id": 17, "questions": "In what year was Empress Dowager Cixi born?", "answers": ["1328", "1887", "1835", "1818"], "label": 2, "original_lang": "zh", "sent_lang": "en"}
+{"id": 18, "questions": "In what year was Qin Shi Huangdi born?", "answers": ["1839", "1596", "1935", "259 BC"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 19, "questions": "In what year was Liu Bei born?", "answers": ["1910", "161", "1922", "1858"], "label": 1, "original_lang": "zh", "sent_lang": "en"}
+{"id": 20, "questions": "In what year was Thomas Edison born?", "answers": ["1878", "1787", "1847", "1860"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 21, "questions": "In what year was Ginger Rogers born?", "answers": ["1672", "1911", "1935", "967"], "label": 1, "original_lang": "en", "sent_lang": "en"}
+{"id": 22, "questions": "In what year was Babe Ruth born?", "answers": ["1303 BC", "1897", "1895", "1844"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 23, "questions": "In what year was Robert Fulton born?", "answers": ["1820", "1672", "1765", "1859"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 24, "questions": "In what year was Abraham Lincoln born?", "answers": ["1571", "1303 BC", "1809", "1894"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 25, "questions": "In what year was James Cook born?", "answers": ["1728", "1893", "1584", "1685"], "label": 0, "original_lang": "en", "sent_lang": "en"}
+{"id": 26, "questions": "In what year was Will Durant born?", "answers": ["1672", "1885", "1571", "1920"], "label": 1, "original_lang": "en", "sent_lang": "en"}
+{"id": 27, "questions": "In what year was John D. Rockefeller born?", "answers": ["1839", "1922", "1935", "1537"], "label": 0, "original_lang": "en", "sent_lang": "en"}
+{"id": 28, "questions": "In what year was Alan Turing born?", "answers": ["1452", "1912", "1475", "1876"], "label": 1, "original_lang": "en", "sent_lang": "en"}
+{"id": 29, "questions": "In what year was Johnny Mercer born?", "answers": ["1932", "1909", "1787", "161"], "label": 1, "original_lang": "en", "sent_lang": "en"}
+{"id": 30, "questions": "In what year was Georg Wilhelm Friedrich Hegel born?", "answers": ["1844", "1770", "967", "1878"], "label": 1, "original_lang": "de", "sent_lang": "en"}
+{"id": 31, "questions": "In what year was Johann Sebastian Bach born?", "answers": ["1685", "830", "1912", "1927"], "label": 0, "original_lang": "de", "sent_lang": "en"}
+{"id": 32, "questions": "In what year was Ludwig van Beethoven born?", "answers": ["1876", "1728", "1534", "1770"], "label": 3, "original_lang": "de", "sent_lang": "en"}
+{"id": 33, "questions": "In what year was Johannes Kepler born?", "answers": ["1571", "1887", "1928", "1935"], "label": 0, "original_lang": "de", "sent_lang": "en"}
+{"id": 34, "questions": "In what year was Konrad Adenauer born?", "answers": ["1928", "1876", "830", "1818"], "label": 1, "original_lang": "de", "sent_lang": "en"}
+{"id": 35, "questions": "In what year was G\u00fcnter Grass born?", "answers": ["1927", "1901", "1765", "1473"], "label": 0, "original_lang": "de", "sent_lang": "en"}
+{"id": 36, "questions": "In what year was Carl Benz born?", "answers": ["1888", "1835", "1876", "1844"], "label": 3, "original_lang": "de", "sent_lang": "en"}
+{"id": 37, "questions": "In what year was Oskar Schlemmer born?", "answers": ["1584", "1935", "1888", "1678"], "label": 2, "original_lang": "de", "sent_lang": "en"}
+{"id": 38, "questions": "In what year was Helmut Kohl born?", "answers": ["1584", "1860", "1930", "1918"], "label": 2, "original_lang": "de", "sent_lang": "en"}
+{"id": 39, "questions": "In what year was Wolfgang Amadeus Mozart born?", "answers": ["156 BC", "1371", "1878", "1756"], "label": 3, "original_lang": "de", "sent_lang": "en"}
+{"id": 40, "questions": "In what year was Hirohito born?", "answers": ["1901", "1932", "1564", "1838"], "label": 0, "original_lang": "ja", "sent_lang": "en"}
+{"id": 41, "questions": "In what year was Toyotomi Hideyoshi born?", "answers": ["1927", "1883", "1835", "1537"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 42, "questions": "In what year was Toshir\u014d Mifune born?", "answers": ["1838", "1922", "1910", "1920"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 43, "questions": "In what year was Akira Kurosawa born?", "answers": ["1910", "161", "1809", "1537"], "label": 0, "original_lang": "ja", "sent_lang": "en"}
+{"id": 44, "questions": "In what year was Tokugawa Ieyasu born?", "answers": ["1828", "1542", "259 BC", "1920"], "label": 1, "original_lang": "ja", "sent_lang": "en"}
+{"id": 45, "questions": "In what year was Miyamoto Musashi born?", "answers": ["1475", "1935", "1584", "1799"], "label": 2, "original_lang": "ja", "sent_lang": "en"}
+{"id": 46, "questions": "In what year was K\u014dnosuke Matsushita born?", "answers": ["1678", "551 BC", "1911", "1894"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 47, "questions": "In what year was Hirobumi It\u014d born?", "answers": ["1847", "1328", "1885", "1841"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 48, "questions": "In what year was Osamu Tezuka born?", "answers": ["1566", "1728", "1928", "1756"], "label": 2, "original_lang": "ja", "sent_lang": "en"}
+{"id": 49, "questions": "In what year was Oda Nobunaga born?", "answers": ["1912", "1596", "1888", "1534"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 50, "questions": "In what year was Napoleon born?", "answers": ["1475", "1885", "1769", "156 BC"], "label": 2, "original_lang": "fr", "sent_lang": "en"}
+{"id": 51, "questions": "In what year was Coco Chanel born?", "answers": ["1887", "1883", "1840", "1874"], "label": 1, "original_lang": "fr", "sent_lang": "en"}
+{"id": 52, "questions": "In what year was Claude Monet born?", "answers": ["1910", "1838", "1534", "1840"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 53, "questions": "In what year was Louis Daguerre born?", "answers": ["1901", "1841", "1787", "161"], "label": 2, "original_lang": "fr", "sent_lang": "en"}
+{"id": 54, "questions": "In what year was Denis Diderot born?", "answers": ["1859", "1787", "1713", "1897"], "label": 2, "original_lang": "fr", "sent_lang": "en"}
+{"id": 55, "questions": "In what year was Charles de Gaulle born?", "answers": ["1452", "1870", "1713", "1890"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 56, "questions": "In what year was Louis XVI of France born?", "answers": ["1769", "1859", "1876", "1754"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 57, "questions": "In what year was Louis XIV of France born?", "answers": ["1841", "1473", "1735", "1638"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 58, "questions": "In what year was Marie Antoinette born?", "answers": ["1839", "1890", "1755", "1809"], "label": 2, "original_lang": "fr", "sent_lang": "en"}
+{"id": 59, "questions": "In what year was Ren\u00e9 Descartes born?", "answers": ["1452", "1859", "1930", "1596"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 60, "questions": "In what year was Victor Emmanuel II of Italy born?", "answers": ["1820", "1799", "1888", "1835"], "label": 0, "original_lang": "it", "sent_lang": "en"}
+{"id": 61, "questions": "In what year was Christopher Columbus born?", "answers": ["1451", "1841", "1893", "1810"], "label": 0, "original_lang": "it", "sent_lang": "en"}
+{"id": 62, "questions": "In what year was Paul VI born?", "answers": ["1876", "1838", "1897", "1835"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 63, "questions": "In what year was Federico Fellini born?", "answers": ["1765", "1897", "1927", "1920"], "label": 3, "original_lang": "it", "sent_lang": "en"}
+{"id": 64, "questions": "In what year was Galileo Galilei born?", "answers": ["1810", "1844", "1564", "1452"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 65, "questions": "In what year was Leonardo da Vinci born?", "answers": ["1932", "830", "1452", "1835"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 66, "questions": "In what year was Michelangelo born?", "answers": ["1770", "1685", "1475", "1885"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 67, "questions": "In what year was Guglielmo Marconi born?", "answers": ["1866", "1874", "1769", "967"], "label": 1, "original_lang": "it", "sent_lang": "en"}
+{"id": 68, "questions": "In what year was Antonio Vivaldi born?", "answers": ["1769", "1930", "1678", "1888"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 69, "questions": "In what year was Giacomo Puccini born?", "answers": ["1858", "1756", "1859", "1930"], "label": 0, "original_lang": "it", "sent_lang": "en"}
+{"id": 70, "questions": "In what year was Sigismund III Vasa born?", "answers": ["1888", "1566", "1452", "1534"], "label": 1, "original_lang": "pl", "sent_lang": "en"}
+{"id": 71, "questions": "In what year was Boles\u0142aw I the Brave born?", "answers": ["1473", "967", "1818", "1935"], "label": 1, "original_lang": "pl", "sent_lang": "en"}
+{"id": 72, "questions": "In what year was Fr\u00e9d\u00e9ric Chopin born?", "answers": ["1765", "1883", "1932", "1810"], "label": 3, "original_lang": "pl", "sent_lang": "en"}
+{"id": 73, "questions": "In what year was Jan Matejko born?", "answers": ["1838", "1818", "161", "1415"], "label": 0, "original_lang": "pl", "sent_lang": "en"}
+{"id": 74, "questions": "In what year was Nicolaus Copernicus born?", "answers": ["1883", "69 BC", "1473", "1728"], "label": 2, "original_lang": "pl", "sent_lang": "en"}
+{"id": 75, "questions": "In what year was Jan D\u0142ugosz born?", "answers": ["1415", "1932", "1935", "1888"], "label": 0, "original_lang": "pl", "sent_lang": "en"}
+{"id": 76, "questions": "In what year was Witold Pilecki born?", "answers": ["1838", "1566", "1901", "1840"], "label": 2, "original_lang": "pl", "sent_lang": "en"}
+{"id": 77, "questions": "In what year was Stanis\u0142aw Staszic born?", "answers": ["1765", "1920", "1755", "1371"], "label": 2, "original_lang": "pl", "sent_lang": "en"}
+{"id": 78, "questions": "In what year was Ignacy Krasicki born?", "answers": ["1765", "1909", "1840", "1735"], "label": 3, "original_lang": "pl", "sent_lang": "en"}
+{"id": 79, "questions": "In what year was Anna Jagiellon born?", "answers": ["1818", "1523", "1893", "1927"], "label": 1, "original_lang": "pl", "sent_lang": "en"}
+{"id": 80, "questions": "In what year was Peter the Great born?", "answers": ["1672", "1895", "1756", "1534"], "label": 0, "original_lang": "ru", "sent_lang": "en"}
+{"id": 81, "questions": "In what year was Rurik born?", "answers": ["259 BC", "830", "1860", "1894"], "label": 1, "original_lang": "ru", "sent_lang": "en"}
+{"id": 82, "questions": "In what year was Alexander II of Russia born?", "answers": ["1928", "1911", "1451", "1818"], "label": 3, "original_lang": "ru", "sent_lang": "en"}
+{"id": 83, "questions": "In what year was Vladimir Lenin born?", "answers": ["1735", "1932", "967", "1870"], "label": 3, "original_lang": "ru", "sent_lang": "en"}
+{"id": 84, "questions": "In what year was Joseph Stalin born?", "answers": ["1870", "69 BC", "1475", "1878"], "label": 3, "original_lang": "ru", "sent_lang": "en"}
+{"id": 85, "questions": "In what year was Dmitri Shostakovich born?", "answers": ["69 BC", "1770", "1906", "1787"], "label": 2, "original_lang": "ru", "sent_lang": "en"}
+{"id": 86, "questions": "In what year was Leo Tolstoy born?", "answers": ["1828", "1473", "156 BC", "1838"], "label": 0, "original_lang": "ru", "sent_lang": "en"}
+{"id": 87, "questions": "In what year was Alexander Pushkin born?", "answers": ["1799", "1415", "1835", "1874"], "label": 0, "original_lang": "ru", "sent_lang": "en"}
+{"id": 88, "questions": "In what year was Anton Chekhov born?", "answers": ["1906", "1818", "1537", "1860"], "label": 3, "original_lang": "ru", "sent_lang": "en"}
+{"id": 89, "questions": "In what year was Pyotr Ilyich Tchaikovsky born?", "answers": ["1935", "1596", "1840", "1473"], "label": 2, "original_lang": "ru", "sent_lang": "en"}
+{"id": 90, "questions": "In what year did Houari Boumediene die?", "answers": ["1909", "1978", "551 BC", "1537"], "label": 1, "original_lang": "ar", "sent_lang": "en"}
+{"id": 91, "questions": "In what year did Cleopatra die?", "answers": ["30 BC", "1371", "1770", "1897"], "label": 0, "original_lang": "ar", "sent_lang": "en"}
+{"id": 92, "questions": "In what year did Anwar Sadat die?", "answers": ["967", "1754", "1981", "1828"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 93, "questions": "In what year did Gamal Abdel Nasser die?", "answers": ["1878", "1542", "1970", "1735"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 94, "questions": "In what year did Tutankhamon die?", "answers": ["1876", "1859", "1323 BC", "1912"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 95, "questions": "In what year did Boutros Boutros-Ghali die?", "answers": ["2016", "1878", "161", "1584"], "label": 0, "original_lang": "ar", "sent_lang": "en"}
+{"id": 96, "questions": "In what year did Ramesses II die?", "answers": ["1906", "1859", "1213 BC", "1885"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 97, "questions": "In what year did Hussein I of Jordan die?", "answers": ["1847", "1841", "1999", "1756"], "label": 2, "original_lang": "ar", "sent_lang": "en"}
+{"id": 98, "questions": "In what year did Omar Sharif die?", "answers": ["1584", "2015", "830", "1920"], "label": 1, "original_lang": "ar", "sent_lang": "en"}
+{"id": 99, "questions": "In what year did Saad Zaghloul die?", "answers": ["1876", "1415", "1770", "1927"], "label": 3, "original_lang": "ar", "sent_lang": "en"}
+{"id": 100, "questions": "In what year did Chiang Kai-shek die?", "answers": ["1920", "1839", "1975", "69 BC"], "label": 2, "original_lang": "zh", "sent_lang": "en"}
+{"id": 101, "questions": "In what year did Mao Zedong die?", "answers": ["967", "551 BC", "1887", "1976"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 102, "questions": "In what year did Sun Yat-sen die?", "answers": ["1303 BC", "1685", "830", "1925"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 103, "questions": "In what year did Zheng He die?", "answers": ["1564", "1433", "1860", "1874"], "label": 1, "original_lang": "zh", "sent_lang": "en"}
+{"id": 104, "questions": "In what year did Hongwu Emperor die?", "answers": ["1398", "1932", "1885", "1888"], "label": 0, "original_lang": "zh", "sent_lang": "en"}
+{"id": 105, "questions": "In what year did Emperor Wu of Han die?", "answers": ["1328", "1835", "1912", "87 BC"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 106, "questions": "In what year did Confucius die?", "answers": ["1885", "1537", "1932", "479 BC"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 107, "questions": "In what year did Empress Dowager Cixi die?", "answers": ["1893", "1475", "1908", "1912"], "label": 2, "original_lang": "zh", "sent_lang": "en"}
+{"id": 108, "questions": "In what year did Qin Shi Huangdi die?", "answers": ["1328", "1866", "1756", "210 BC"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 109, "questions": "In what year did Liu Bei die?", "answers": ["1542", "1828", "1818", "233"], "label": 3, "original_lang": "zh", "sent_lang": "en"}
+{"id": 110, "questions": "In what year did Thomas Edison die?", "answers": ["1901", "1341 BC", "1931", "1906"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 111, "questions": "In what year did Ginger Rogers die?", "answers": ["1542", "1995", "1328", "1735"], "label": 1, "original_lang": "en", "sent_lang": "en"}
+{"id": 112, "questions": "In what year did Babe Ruth die?", "answers": ["1948", "1799", "1735", "1922"], "label": 0, "original_lang": "en", "sent_lang": "en"}
+{"id": 113, "questions": "In what year did Robert Fulton die?", "answers": ["1809", "1895", "1815", "1638"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 114, "questions": "In what year did Abraham Lincoln die?", "answers": ["259 BC", "1894", "1865", "1818"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 115, "questions": "In what year did James Cook die?", "answers": ["1779", "1912", "1922", "1876"], "label": 0, "original_lang": "en", "sent_lang": "en"}
+{"id": 116, "questions": "In what year did Will Durant die?", "answers": ["1820", "1981", "1638", "1895"], "label": 1, "original_lang": "en", "sent_lang": "en"}
+{"id": 117, "questions": "In what year did John D. Rockefeller die?", "answers": ["1820", "156 BC", "1937", "1755"], "label": 2, "original_lang": "en", "sent_lang": "en"}
+{"id": 118, "questions": "In what year did Alan Turing die?", "answers": ["1954", "1888", "1596", "1928"], "label": 0, "original_lang": "en", "sent_lang": "en"}
+{"id": 119, "questions": "In what year did Johnny Mercer die?", "answers": ["1976", "1893", "1735", "1769"], "label": 0, "original_lang": "en", "sent_lang": "en"}
+{"id": 120, "questions": "In what year did Georg Wilhelm Friedrich Hegel die?", "answers": ["1895", "1831", "1841", "1930"], "label": 1, "original_lang": "de", "sent_lang": "en"}
+{"id": 121, "questions": "In what year did Johann Sebastian Bach die?", "answers": ["1883", "1750", "1922", "1534"], "label": 1, "original_lang": "de", "sent_lang": "en"}
+{"id": 122, "questions": "In what year did Ludwig van Beethoven die?", "answers": ["1827", "551 BC", "1897", "1838"], "label": 0, "original_lang": "de", "sent_lang": "en"}
+{"id": 123, "questions": "In what year did Johannes Kepler die?", "answers": ["1713", "551 BC", "1918", "1630"], "label": 3, "original_lang": "de", "sent_lang": "en"}
+{"id": 124, "questions": "In what year did Konrad Adenauer die?", "answers": ["1685", "1967", "1678", "830"], "label": 1, "original_lang": "de", "sent_lang": "en"}
+{"id": 125, "questions": "In what year did G\u00fcnter Grass die?", "answers": ["2015", "259 BC", "1894", "1922"], "label": 0, "original_lang": "de", "sent_lang": "en"}
+{"id": 126, "questions": "In what year did Carl Benz die?", "answers": ["1859", "1876", "1685", "1929"], "label": 3, "original_lang": "de", "sent_lang": "en"}
+{"id": 127, "questions": "In what year did Oskar Schlemmer die?", "answers": ["1799", "1841", "1943", "1473"], "label": 2, "original_lang": "de", "sent_lang": "en"}
+{"id": 128, "questions": "In what year did Helmut Kohl die?", "answers": ["2017", "551 BC", "1883", "1537"], "label": 0, "original_lang": "de", "sent_lang": "en"}
+{"id": 129, "questions": "In what year did Wolfgang Amadeus Mozart die?", "answers": ["1415", "1328", "1791", "1341 BC"], "label": 2, "original_lang": "de", "sent_lang": "en"}
+{"id": 130, "questions": "In what year did Hirohito die?", "answers": ["1989", "1566", "1894", "1523"], "label": 0, "original_lang": "ja", "sent_lang": "en"}
+{"id": 131, "questions": "In what year did Toyotomi Hideyoshi die?", "answers": ["1809", "1883", "1598", "1820"], "label": 2, "original_lang": "ja", "sent_lang": "en"}
+{"id": 132, "questions": "In what year did Toshir\u014d Mifune die?", "answers": ["1997", "1901", "1932", "1769"], "label": 0, "original_lang": "ja", "sent_lang": "en"}
+{"id": 133, "questions": "In what year did Akira Kurosawa die?", "answers": ["1371", "1998", "1888", "1523"], "label": 1, "original_lang": "ja", "sent_lang": "en"}
+{"id": 134, "questions": "In what year did Tokugawa Ieyasu die?", "answers": ["1799", "1616", "1844", "1909"], "label": 1, "original_lang": "ja", "sent_lang": "en"}
+{"id": 135, "questions": "In what year did Miyamoto Musashi die?", "answers": ["1799", "1645", "1918", "1371"], "label": 1, "original_lang": "ja", "sent_lang": "en"}
+{"id": 136, "questions": "In what year did K\u014dnosuke Matsushita die?", "answers": ["1989", "1918", "967", "1844"], "label": 0, "original_lang": "ja", "sent_lang": "en"}
+{"id": 137, "questions": "In what year did Hirobumi It\u014d die?", "answers": ["1638", "1909", "1895", "1887"], "label": 1, "original_lang": "ja", "sent_lang": "en"}
+{"id": 138, "questions": "In what year did Osamu Tezuka die?", "answers": ["1841", "1918", "1883", "1989"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 139, "questions": "In what year did Oda Nobunaga die?", "answers": ["1371", "1523", "1810", "1582"], "label": 3, "original_lang": "ja", "sent_lang": "en"}
+{"id": 140, "questions": "In what year did Napoleon die?", "answers": ["1920", "1821", "1756", "1451"], "label": 1, "original_lang": "fr", "sent_lang": "en"}
+{"id": 141, "questions": "In what year did Coco Chanel die?", "answers": ["1920", "1922", "1894", "1971"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 142, "questions": "In what year did Claude Monet die?", "answers": ["161", "1799", "1838", "1926"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 143, "questions": "In what year did Louis Daguerre die?", "answers": ["1341 BC", "1851", "1566", "1828"], "label": 1, "original_lang": "fr", "sent_lang": "en"}
+{"id": 144, "questions": "In what year did Denis Diderot die?", "answers": ["1542", "69 BC", "1784", "1859"], "label": 2, "original_lang": "fr", "sent_lang": "en"}
+{"id": 145, "questions": "In what year did Charles de Gaulle die?", "answers": ["1534", "1754", "1451", "1970"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 146, "questions": "In what year did Louis XVI of France die?", "answers": ["1793", "1860", "1799", "1893"], "label": 0, "original_lang": "fr", "sent_lang": "en"}
+{"id": 147, "questions": "In what year did Louis XIV of France die?", "answers": ["1909", "1715", "1870", "1473"], "label": 1, "original_lang": "fr", "sent_lang": "en"}
+{"id": 148, "questions": "In what year did Marie Antoinette die?", "answers": ["1542", "1887", "1566", "1793"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 149, "questions": "In what year did Ren\u00e9 Descartes die?", "answers": ["1818", "1911", "1922", "1650"], "label": 3, "original_lang": "fr", "sent_lang": "en"}
+{"id": 150, "questions": "In what year did Victor Emmanuel II of Italy die?", "answers": ["1859", "1920", "1839", "1878"], "label": 3, "original_lang": "it", "sent_lang": "en"}
+{"id": 151, "questions": "In what year did Christopher Columbus die?", "answers": ["1918", "1878", "1874", "1506"], "label": 3, "original_lang": "it", "sent_lang": "en"}
+{"id": 152, "questions": "In what year did Paul VI die?", "answers": ["1371", "1978", "1571", "1523"], "label": 1, "original_lang": "it", "sent_lang": "en"}
+{"id": 153, "questions": "In what year did Federico Fellini die?", "answers": ["1735", "1596", "1993", "1935"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 154, "questions": "In what year did Galileo Galilei die?", "answers": ["69 BC", "1328", "161", "1642"], "label": 3, "original_lang": "it", "sent_lang": "en"}
+{"id": 155, "questions": "In what year did Leonardo da Vinci die?", "answers": ["1571", "1810", "1519", "1564"], "label": 2, "original_lang": "it", "sent_lang": "en"}
+{"id": 156, "questions": "In what year did Michelangelo die?", "answers": ["1564", "830", "551 BC", "1839"], "label": 0, "original_lang": "it", "sent_lang": "en"}
+{"id": 157, "questions": "In what year did Guglielmo Marconi die?", "answers": ["1638", "1537", "1809", "1937"], "label": 3, "original_lang": "it", "sent_lang": "en"}
+{"id": 158, "questions": "In what year did Antonio Vivaldi die?", "answers": ["1728", "1912", "1564", "1741"], "label": 3, "original_lang": "it", "sent_lang": "en"}
+{"id": 159, "questions": "In what year did Giacomo Puccini die?", "answers": ["1885", "1924", "1678", "1859"], "label": 1, "original_lang": "it", "sent_lang": "en"}
+{"id": 160, "questions": "In what year did Sigismund III Vasa die?", "answers": ["1632", "967", "1835", "1537"], "label": 0, "original_lang": "pl", "sent_lang": "en"}
+{"id": 161, "questions": "In what year did Boles\u0142aw I the Brave die?", "answers": ["1874", "1025", "1596", "1897"], "label": 1, "original_lang": "pl", "sent_lang": "en"}
+{"id": 162, "questions": "In what year did Fr\u00e9d\u00e9ric Chopin die?", "answers": ["1883", "1932", "1849", "1847"], "label": 2, "original_lang": "pl", "sent_lang": "en"}
+{"id": 163, "questions": "In what year did Jan Matejko die?", "answers": ["1537", "1809", "1893", "1755"], "label": 2, "original_lang": "pl", "sent_lang": "en"}
+{"id": 164, "questions": "In what year did Nicolaus Copernicus die?", "answers": ["1543", "1818", "1860", "1888"], "label": 0, "original_lang": "pl", "sent_lang": "en"}
+{"id": 165, "questions": "In what year did Jan D\u0142ugosz die?", "answers": ["1713", "1480", "1415", "1475"], "label": 1, "original_lang": "pl", "sent_lang": "en"}
+{"id": 166, "questions": "In what year did Witold Pilecki die?", "answers": ["830", "1571", "1451", "1948"], "label": 3, "original_lang": "pl", "sent_lang": "en"}
+{"id": 167, "questions": "In what year did Stanis\u0142aw Staszic die?", "answers": ["1756", "1826", "1858", "1920"], "label": 1, "original_lang": "pl", "sent_lang": "en"}
+{"id": 168, "questions": "In what year did Ignacy Krasicki die?", "answers": ["1910", "1887", "1371", "1801"], "label": 3, "original_lang": "pl", "sent_lang": "en"}
+{"id": 169, "questions": "In what year did Anna Jagiellon die?", "answers": ["1787", "1866", "1874", "1596"], "label": 3, "original_lang": "pl", "sent_lang": "en"}
+{"id": 170, "questions": "In what year did Peter the Great die?", "answers": ["1912", "1725", "1475", "1523"], "label": 1, "original_lang": "ru", "sent_lang": "en"}
+{"id": 171, "questions": "In what year did Rurik die?", "answers": ["1371", "1713", "879", "1883"], "label": 2, "original_lang": "ru", "sent_lang": "en"}
+{"id": 172, "questions": "In what year did Alexander II of Russia die?", "answers": ["156 BC", "1820", "1883", "1881"], "label": 3, "original_lang": "ru", "sent_lang": "en"}
+{"id": 173, "questions": "In what year did Vladimir Lenin die?", "answers": ["1858", "1924", "1755", "1596"], "label": 1, "original_lang": "ru", "sent_lang": "en"}
+{"id": 174, "questions": "In what year did Joseph Stalin die?", "answers": ["1953", "1765", "1838", "1809"], "label": 0, "original_lang": "ru", "sent_lang": "en"}
+{"id": 175, "questions": "In what year did Dmitri Shostakovich die?", "answers": ["1820", "1975", "1894", "1860"], "label": 1, "original_lang": "ru", "sent_lang": "en"}
+{"id": 176, "questions": "In what year did Leo Tolstoy die?", "answers": ["1910", "1451", "1755", "1897"], "label": 0, "original_lang": "ru", "sent_lang": "en"}
+{"id": 177, "questions": "In what year did Alexander Pushkin die?", "answers": ["1672", "1475", "1837", "1678"], "label": 2, "original_lang": "ru", "sent_lang": "en"}
+{"id": 178, "questions": "In what year did Anton Chekhov die?", "answers": ["1930", "1799", "1874", "1904"], "label": 3, "original_lang": "ru", "sent_lang": "en"}
+{"id": 179, "questions": "In what year did Pyotr Ilyich Tchaikovsky die?", "answers": ["1912", "156 BC", "1893", "1303 BC"], "label": 2, "original_lang": "ru", "sent_lang": "en"}

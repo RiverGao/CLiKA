@@ -1,0 +1,180 @@
+{"id": 0, "questions": "En quelle ann\u00e9e est n\u00e9 Houari Boum\u00e9di\u00e8ne ?", "answers": ["1820", "1828", "1838", "1932"], "label": 3, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 1, "questions": "En quelle ann\u00e9e est n\u00e9 Cl\u00e9op\u00e2tre ?", "answers": ["1799", "1523", "1876", "69 BC"], "label": 3, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 2, "questions": "En quelle ann\u00e9e est n\u00e9 Anouar el-Sadate ?", "answers": ["69 BC", "1895", "1918", "830"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 3, "questions": "En quelle ann\u00e9e est n\u00e9 Gamal Abdel Nasser ?", "answers": ["1537", "1918", "1678", "1534"], "label": 1, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 4, "questions": "En quelle ann\u00e9e est n\u00e9 Tout\u00e2nkhamon ?", "answers": ["1895", "1912", "1341 BC", "1897"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 5, "questions": "En quelle ann\u00e9e est n\u00e9 Boutros Boutros-Ghali ?", "answers": ["1922", "259 BC", "1475", "1844"], "label": 0, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 6, "questions": "En quelle ann\u00e9e est n\u00e9 Rams\u00e8s II ?", "answers": ["1859", "967", "1303 BC", "1920"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 7, "questions": "En quelle ann\u00e9e est n\u00e9 Hussein Ier de Jordanie ?", "answers": ["1638", "1584", "1935", "1756"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 8, "questions": "En quelle ann\u00e9e est n\u00e9 Omar Sharif ?", "answers": ["1303 BC", "1909", "1932", "1713"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 9, "questions": "En quelle ann\u00e9e est n\u00e9 Saad Zaghloul ?", "answers": ["1859", "1874", "1839", "1894"], "label": 0, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 10, "questions": "En quelle ann\u00e9e est n\u00e9 Tchang Ka\u00ef-chek ?", "answers": ["1735", "1828", "1887", "1638"], "label": 2, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 11, "questions": "En quelle ann\u00e9e est n\u00e9 Mao Zedong ?", "answers": ["1893", "161", "1769", "1566"], "label": 0, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 12, "questions": "En quelle ann\u00e9e est n\u00e9 Sun Yat-sen ?", "answers": ["1839", "1866", "1918", "1818"], "label": 1, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 13, "questions": "En quelle ann\u00e9e est n\u00e9 Zheng He ?", "answers": ["1534", "1932", "1909", "1371"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 14, "questions": "En quelle ann\u00e9e est n\u00e9 Ming Hongwu ?", "answers": ["1328", "1885", "1452", "69 BC"], "label": 0, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 15, "questions": "En quelle ann\u00e9e est n\u00e9 Han Wudi ?", "answers": ["156 BC", "1534", "1728", "1901"], "label": 0, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 16, "questions": "En quelle ann\u00e9e est n\u00e9 Confucius ?", "answers": ["69 BC", "1564", "551 BC", "1910"], "label": 2, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 17, "questions": "En quelle ann\u00e9e est n\u00e9 Cixi ?", "answers": ["1328", "1887", "1835", "1818"], "label": 2, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 18, "questions": "En quelle ann\u00e9e est n\u00e9 Qin Shi Huang ?", "answers": ["1839", "1596", "1935", "259 BC"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 19, "questions": "En quelle ann\u00e9e est n\u00e9 Liu Bei ?", "answers": ["1910", "161", "1922", "1858"], "label": 1, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 20, "questions": "En quelle ann\u00e9e est n\u00e9 Thomas Edison ?", "answers": ["1878", "1787", "1847", "1860"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 21, "questions": "En quelle ann\u00e9e est n\u00e9 Ginger Rogers ?", "answers": ["1672", "1911", "1935", "967"], "label": 1, "original_lang": "en", "sent_lang": "fr"}
+{"id": 22, "questions": "En quelle ann\u00e9e est n\u00e9 Babe Ruth ?", "answers": ["1303 BC", "1897", "1895", "1844"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 23, "questions": "En quelle ann\u00e9e est n\u00e9 Robert Fulton ?", "answers": ["1820", "1672", "1765", "1859"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 24, "questions": "En quelle ann\u00e9e est n\u00e9 Abraham Lincoln ?", "answers": ["1571", "1303 BC", "1809", "1894"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 25, "questions": "En quelle ann\u00e9e est n\u00e9 James Cook ?", "answers": ["1728", "1893", "1584", "1685"], "label": 0, "original_lang": "en", "sent_lang": "fr"}
+{"id": 26, "questions": "En quelle ann\u00e9e est n\u00e9 Will Durant ?", "answers": ["1672", "1885", "1571", "1920"], "label": 1, "original_lang": "en", "sent_lang": "fr"}
+{"id": 27, "questions": "En quelle ann\u00e9e est n\u00e9 John Davison Rockefeller ?", "answers": ["1839", "1922", "1935", "1537"], "label": 0, "original_lang": "en", "sent_lang": "fr"}
+{"id": 28, "questions": "En quelle ann\u00e9e est n\u00e9 Alan Turing ?", "answers": ["1452", "1912", "1475", "1876"], "label": 1, "original_lang": "en", "sent_lang": "fr"}
+{"id": 29, "questions": "En quelle ann\u00e9e est n\u00e9 Johnny Mercer ?", "answers": ["1932", "1909", "1787", "161"], "label": 1, "original_lang": "en", "sent_lang": "fr"}
+{"id": 30, "questions": "En quelle ann\u00e9e est n\u00e9 Georg Wilhelm Friedrich Hegel ?", "answers": ["1844", "1770", "967", "1878"], "label": 1, "original_lang": "de", "sent_lang": "fr"}
+{"id": 31, "questions": "En quelle ann\u00e9e est n\u00e9 Jean-S\u00e9bastien Bach ?", "answers": ["1685", "830", "1912", "1927"], "label": 0, "original_lang": "de", "sent_lang": "fr"}
+{"id": 32, "questions": "En quelle ann\u00e9e est n\u00e9 Ludwig van Beethoven ?", "answers": ["1876", "1728", "1534", "1770"], "label": 3, "original_lang": "de", "sent_lang": "fr"}
+{"id": 33, "questions": "En quelle ann\u00e9e est n\u00e9 Johannes Kepler ?", "answers": ["1571", "1887", "1928", "1935"], "label": 0, "original_lang": "de", "sent_lang": "fr"}
+{"id": 34, "questions": "En quelle ann\u00e9e est n\u00e9 Konrad Adenauer ?", "answers": ["1928", "1876", "830", "1818"], "label": 1, "original_lang": "de", "sent_lang": "fr"}
+{"id": 35, "questions": "En quelle ann\u00e9e est n\u00e9 G\u00fcnter Grass ?", "answers": ["1927", "1901", "1765", "1473"], "label": 0, "original_lang": "de", "sent_lang": "fr"}
+{"id": 36, "questions": "En quelle ann\u00e9e est n\u00e9 Carl Benz ?", "answers": ["1888", "1835", "1876", "1844"], "label": 3, "original_lang": "de", "sent_lang": "fr"}
+{"id": 37, "questions": "En quelle ann\u00e9e est n\u00e9 Oskar Schlemmer ?", "answers": ["1584", "1935", "1888", "1678"], "label": 2, "original_lang": "de", "sent_lang": "fr"}
+{"id": 38, "questions": "En quelle ann\u00e9e est n\u00e9 Helmut Kohl ?", "answers": ["1584", "1860", "1930", "1918"], "label": 2, "original_lang": "de", "sent_lang": "fr"}
+{"id": 39, "questions": "En quelle ann\u00e9e est n\u00e9 Wolfgang Amadeus Mozart ?", "answers": ["156 BC", "1371", "1878", "1756"], "label": 3, "original_lang": "de", "sent_lang": "fr"}
+{"id": 40, "questions": "En quelle ann\u00e9e est n\u00e9 Hirohito ?", "answers": ["1901", "1932", "1564", "1838"], "label": 0, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 41, "questions": "En quelle ann\u00e9e est n\u00e9 Toyotomi Hideyoshi ?", "answers": ["1927", "1883", "1835", "1537"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 42, "questions": "En quelle ann\u00e9e est n\u00e9 Toshir\u014d Mifune ?", "answers": ["1838", "1922", "1910", "1920"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 43, "questions": "En quelle ann\u00e9e est n\u00e9 Akira Kurosawa ?", "answers": ["1910", "161", "1809", "1537"], "label": 0, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 44, "questions": "En quelle ann\u00e9e est n\u00e9 Tokugawa Ieyasu ?", "answers": ["1828", "1542", "259 BC", "1920"], "label": 1, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 45, "questions": "En quelle ann\u00e9e est n\u00e9 Miyamoto Musashi ?", "answers": ["1475", "1935", "1584", "1799"], "label": 2, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 46, "questions": "En quelle ann\u00e9e est n\u00e9 K\u014dnosuke Matsushita ?", "answers": ["1678", "551 BC", "1911", "1894"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 47, "questions": "En quelle ann\u00e9e est n\u00e9 It\u014d Hirobumi ?", "answers": ["1847", "1328", "1885", "1841"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 48, "questions": "En quelle ann\u00e9e est n\u00e9 Osamu Tezuka ?", "answers": ["1566", "1728", "1928", "1756"], "label": 2, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 49, "questions": "En quelle ann\u00e9e est n\u00e9 Oda Nobunaga ?", "answers": ["1912", "1596", "1888", "1534"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 50, "questions": "En quelle ann\u00e9e est n\u00e9 Napol\u00e9on Ier ?", "answers": ["1475", "1885", "1769", "156 BC"], "label": 2, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 51, "questions": "En quelle ann\u00e9e est n\u00e9 Coco Chanel ?", "answers": ["1887", "1883", "1840", "1874"], "label": 1, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 52, "questions": "En quelle ann\u00e9e est n\u00e9 Claude Monet ?", "answers": ["1910", "1838", "1534", "1840"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 53, "questions": "En quelle ann\u00e9e est n\u00e9 Louis Daguerre ?", "answers": ["1901", "1841", "1787", "161"], "label": 2, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 54, "questions": "En quelle ann\u00e9e est n\u00e9 Denis Diderot ?", "answers": ["1859", "1787", "1713", "1897"], "label": 2, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 55, "questions": "En quelle ann\u00e9e est n\u00e9 Charles de Gaulle ?", "answers": ["1452", "1870", "1713", "1890"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 56, "questions": "En quelle ann\u00e9e est n\u00e9 Louis XVI ?", "answers": ["1769", "1859", "1876", "1754"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 57, "questions": "En quelle ann\u00e9e est n\u00e9 Louis XIV ?", "answers": ["1841", "1473", "1735", "1638"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 58, "questions": "En quelle ann\u00e9e est n\u00e9 Marie-Antoinette ?", "answers": ["1839", "1890", "1755", "1809"], "label": 2, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 59, "questions": "En quelle ann\u00e9e est n\u00e9 Ren\u00e9 Descartes ?", "answers": ["1452", "1859", "1930", "1596"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 60, "questions": "En quelle ann\u00e9e est n\u00e9 Victor-Emmanuel II ?", "answers": ["1820", "1799", "1888", "1835"], "label": 0, "original_lang": "it", "sent_lang": "fr"}
+{"id": 61, "questions": "En quelle ann\u00e9e est n\u00e9 Christophe Colomb ?", "answers": ["1451", "1841", "1893", "1810"], "label": 0, "original_lang": "it", "sent_lang": "fr"}
+{"id": 62, "questions": "En quelle ann\u00e9e est n\u00e9 Paul VI ?", "answers": ["1876", "1838", "1897", "1835"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 63, "questions": "En quelle ann\u00e9e est n\u00e9 Federico Fellini ?", "answers": ["1765", "1897", "1927", "1920"], "label": 3, "original_lang": "it", "sent_lang": "fr"}
+{"id": 64, "questions": "En quelle ann\u00e9e est n\u00e9 Galil\u00e9e ?", "answers": ["1810", "1844", "1564", "1452"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 65, "questions": "En quelle ann\u00e9e est n\u00e9 L\u00e9onard de Vinci ?", "answers": ["1932", "830", "1452", "1835"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 66, "questions": "En quelle ann\u00e9e est n\u00e9 Michel-Ange Buronarroti ?", "answers": ["1770", "1685", "1475", "1885"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 67, "questions": "En quelle ann\u00e9e est n\u00e9 Guglielmo Marconi ?", "answers": ["1866", "1874", "1769", "967"], "label": 1, "original_lang": "it", "sent_lang": "fr"}
+{"id": 68, "questions": "En quelle ann\u00e9e est n\u00e9 Antonio Vivaldi ?", "answers": ["1769", "1930", "1678", "1888"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 69, "questions": "En quelle ann\u00e9e est n\u00e9 Giacomo Puccini ?", "answers": ["1858", "1756", "1859", "1930"], "label": 0, "original_lang": "it", "sent_lang": "fr"}
+{"id": 70, "questions": "En quelle ann\u00e9e est n\u00e9 Sigismond III de Pologne ?", "answers": ["1888", "1566", "1452", "1534"], "label": 1, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 71, "questions": "En quelle ann\u00e9e est n\u00e9 Boleslas Ier ?", "answers": ["1473", "967", "1818", "1935"], "label": 1, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 72, "questions": "En quelle ann\u00e9e est n\u00e9 Fr\u00e9d\u00e9ric Chopin ?", "answers": ["1765", "1883", "1932", "1810"], "label": 3, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 73, "questions": "En quelle ann\u00e9e est n\u00e9 Jan Matejko ?", "answers": ["1838", "1818", "161", "1415"], "label": 0, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 74, "questions": "En quelle ann\u00e9e est n\u00e9 Nicolas Copernic ?", "answers": ["1883", "69 BC", "1473", "1728"], "label": 2, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 75, "questions": "En quelle ann\u00e9e est n\u00e9 Jan D\u0142ugosz ?", "answers": ["1415", "1932", "1935", "1888"], "label": 0, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 76, "questions": "En quelle ann\u00e9e est n\u00e9 Witold Pilecki ?", "answers": ["1838", "1566", "1901", "1840"], "label": 2, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 77, "questions": "En quelle ann\u00e9e est n\u00e9 Stanis\u0142aw Staszic ?", "answers": ["1765", "1920", "1755", "1371"], "label": 2, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 78, "questions": "En quelle ann\u00e9e est n\u00e9 Ignacy Krasicki ?", "answers": ["1765", "1909", "1840", "1735"], "label": 3, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 79, "questions": "En quelle ann\u00e9e est n\u00e9 Anna Jagellon ?", "answers": ["1818", "1523", "1893", "1927"], "label": 1, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 80, "questions": "En quelle ann\u00e9e est n\u00e9 Pierre Ier de Russie ?", "answers": ["1672", "1895", "1756", "1534"], "label": 0, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 81, "questions": "En quelle ann\u00e9e est n\u00e9 Riourik ?", "answers": ["259 BC", "830", "1860", "1894"], "label": 1, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 82, "questions": "En quelle ann\u00e9e est n\u00e9 Alexandre II ?", "answers": ["1928", "1911", "1451", "1818"], "label": 3, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 83, "questions": "En quelle ann\u00e9e est n\u00e9 L\u00e9nine ?", "answers": ["1735", "1932", "967", "1870"], "label": 3, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 84, "questions": "En quelle ann\u00e9e est n\u00e9 Joseph Staline ?", "answers": ["1870", "69 BC", "1475", "1878"], "label": 3, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 85, "questions": "En quelle ann\u00e9e est n\u00e9 Dmitri Chostakovitch ?", "answers": ["69 BC", "1770", "1906", "1787"], "label": 2, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 86, "questions": "En quelle ann\u00e9e est n\u00e9 L\u00e9on Tolsto\u00ef ?", "answers": ["1828", "1473", "156 BC", "1838"], "label": 0, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 87, "questions": "En quelle ann\u00e9e est n\u00e9 Alexandre Pouchkine ?", "answers": ["1799", "1415", "1835", "1874"], "label": 0, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 88, "questions": "En quelle ann\u00e9e est n\u00e9 Anton Tchekhov ?", "answers": ["1906", "1818", "1537", "1860"], "label": 3, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 89, "questions": "En quelle ann\u00e9e est n\u00e9 Piotr Ilitch Tcha\u00efkovski ?", "answers": ["1935", "1596", "1840", "1473"], "label": 2, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 90, "questions": "En quelle ann\u00e9e Houari Boum\u00e9di\u00e8ne est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1909", "1978", "551 BC", "1537"], "label": 1, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 91, "questions": "En quelle ann\u00e9e Cl\u00e9op\u00e2tre est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["30 BC", "1371", "1770", "1897"], "label": 0, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 92, "questions": "En quelle ann\u00e9e Anouar el-Sadate est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["967", "1754", "1981", "1828"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 93, "questions": "En quelle ann\u00e9e Gamal Abdel Nasser est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1878", "1542", "1970", "1735"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 94, "questions": "En quelle ann\u00e9e Tout\u00e2nkhamon est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1876", "1859", "1323 BC", "1912"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 95, "questions": "En quelle ann\u00e9e Boutros Boutros-Ghali est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["2016", "1878", "161", "1584"], "label": 0, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 96, "questions": "En quelle ann\u00e9e Rams\u00e8s II est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1906", "1859", "1213 BC", "1885"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 97, "questions": "En quelle ann\u00e9e Hussein Ier de Jordanie est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1847", "1841", "1999", "1756"], "label": 2, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 98, "questions": "En quelle ann\u00e9e Omar Sharif est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1584", "2015", "830", "1920"], "label": 1, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 99, "questions": "En quelle ann\u00e9e Saad Zaghloul est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1876", "1415", "1770", "1927"], "label": 3, "original_lang": "ar", "sent_lang": "fr"}
+{"id": 100, "questions": "En quelle ann\u00e9e Tchang Ka\u00ef-chek est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1920", "1839", "1975", "69 BC"], "label": 2, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 101, "questions": "En quelle ann\u00e9e Mao Zedong est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["967", "551 BC", "1887", "1976"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 102, "questions": "En quelle ann\u00e9e Sun Yat-sen est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1303 BC", "1685", "830", "1925"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 103, "questions": "En quelle ann\u00e9e Zheng He est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1564", "1433", "1860", "1874"], "label": 1, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 104, "questions": "En quelle ann\u00e9e Ming Hongwu est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1398", "1932", "1885", "1888"], "label": 0, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 105, "questions": "En quelle ann\u00e9e Han Wudi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1328", "1835", "1912", "87 BC"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 106, "questions": "En quelle ann\u00e9e Confucius est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1885", "1537", "1932", "479 BC"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 107, "questions": "En quelle ann\u00e9e Cixi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1893", "1475", "1908", "1912"], "label": 2, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 108, "questions": "En quelle ann\u00e9e Qin Shi Huang est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1328", "1866", "1756", "210 BC"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 109, "questions": "En quelle ann\u00e9e Liu Bei est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1542", "1828", "1818", "233"], "label": 3, "original_lang": "zh", "sent_lang": "fr"}
+{"id": 110, "questions": "En quelle ann\u00e9e Thomas Edison est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1901", "1341 BC", "1931", "1906"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 111, "questions": "En quelle ann\u00e9e Ginger Rogers est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1542", "1995", "1328", "1735"], "label": 1, "original_lang": "en", "sent_lang": "fr"}
+{"id": 112, "questions": "En quelle ann\u00e9e Babe Ruth est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1948", "1799", "1735", "1922"], "label": 0, "original_lang": "en", "sent_lang": "fr"}
+{"id": 113, "questions": "En quelle ann\u00e9e Robert Fulton est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1809", "1895", "1815", "1638"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 114, "questions": "En quelle ann\u00e9e Abraham Lincoln est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["259 BC", "1894", "1865", "1818"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 115, "questions": "En quelle ann\u00e9e James Cook est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1779", "1912", "1922", "1876"], "label": 0, "original_lang": "en", "sent_lang": "fr"}
+{"id": 116, "questions": "En quelle ann\u00e9e Will Durant est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1820", "1981", "1638", "1895"], "label": 1, "original_lang": "en", "sent_lang": "fr"}
+{"id": 117, "questions": "En quelle ann\u00e9e John Davison Rockefeller est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1820", "156 BC", "1937", "1755"], "label": 2, "original_lang": "en", "sent_lang": "fr"}
+{"id": 118, "questions": "En quelle ann\u00e9e Alan Turing est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1954", "1888", "1596", "1928"], "label": 0, "original_lang": "en", "sent_lang": "fr"}
+{"id": 119, "questions": "En quelle ann\u00e9e Johnny Mercer est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1976", "1893", "1735", "1769"], "label": 0, "original_lang": "en", "sent_lang": "fr"}
+{"id": 120, "questions": "En quelle ann\u00e9e Georg Wilhelm Friedrich Hegel est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1895", "1831", "1841", "1930"], "label": 1, "original_lang": "de", "sent_lang": "fr"}
+{"id": 121, "questions": "En quelle ann\u00e9e Jean-S\u00e9bastien Bach est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1883", "1750", "1922", "1534"], "label": 1, "original_lang": "de", "sent_lang": "fr"}
+{"id": 122, "questions": "En quelle ann\u00e9e Ludwig van Beethoven est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1827", "551 BC", "1897", "1838"], "label": 0, "original_lang": "de", "sent_lang": "fr"}
+{"id": 123, "questions": "En quelle ann\u00e9e Johannes Kepler est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1713", "551 BC", "1918", "1630"], "label": 3, "original_lang": "de", "sent_lang": "fr"}
+{"id": 124, "questions": "En quelle ann\u00e9e Konrad Adenauer est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1685", "1967", "1678", "830"], "label": 1, "original_lang": "de", "sent_lang": "fr"}
+{"id": 125, "questions": "En quelle ann\u00e9e G\u00fcnter Grass est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["2015", "259 BC", "1894", "1922"], "label": 0, "original_lang": "de", "sent_lang": "fr"}
+{"id": 126, "questions": "En quelle ann\u00e9e Carl Benz est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1859", "1876", "1685", "1929"], "label": 3, "original_lang": "de", "sent_lang": "fr"}
+{"id": 127, "questions": "En quelle ann\u00e9e Oskar Schlemmer est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1799", "1841", "1943", "1473"], "label": 2, "original_lang": "de", "sent_lang": "fr"}
+{"id": 128, "questions": "En quelle ann\u00e9e Helmut Kohl est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["2017", "551 BC", "1883", "1537"], "label": 0, "original_lang": "de", "sent_lang": "fr"}
+{"id": 129, "questions": "En quelle ann\u00e9e Wolfgang Amadeus Mozart est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1415", "1328", "1791", "1341 BC"], "label": 2, "original_lang": "de", "sent_lang": "fr"}
+{"id": 130, "questions": "En quelle ann\u00e9e Hirohito est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1989", "1566", "1894", "1523"], "label": 0, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 131, "questions": "En quelle ann\u00e9e Toyotomi Hideyoshi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1809", "1883", "1598", "1820"], "label": 2, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 132, "questions": "En quelle ann\u00e9e Toshir\u014d Mifune est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1997", "1901", "1932", "1769"], "label": 0, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 133, "questions": "En quelle ann\u00e9e Akira Kurosawa est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1371", "1998", "1888", "1523"], "label": 1, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 134, "questions": "En quelle ann\u00e9e Tokugawa Ieyasu est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1799", "1616", "1844", "1909"], "label": 1, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 135, "questions": "En quelle ann\u00e9e Miyamoto Musashi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1799", "1645", "1918", "1371"], "label": 1, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 136, "questions": "En quelle ann\u00e9e K\u014dnosuke Matsushita est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1989", "1918", "967", "1844"], "label": 0, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 137, "questions": "En quelle ann\u00e9e It\u014d Hirobumi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1638", "1909", "1895", "1887"], "label": 1, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 138, "questions": "En quelle ann\u00e9e Osamu Tezuka est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1841", "1918", "1883", "1989"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 139, "questions": "En quelle ann\u00e9e Oda Nobunaga est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1371", "1523", "1810", "1582"], "label": 3, "original_lang": "ja", "sent_lang": "fr"}
+{"id": 140, "questions": "En quelle ann\u00e9e Napol\u00e9on Ier est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1920", "1821", "1756", "1451"], "label": 1, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 141, "questions": "En quelle ann\u00e9e Coco Chanel est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1920", "1922", "1894", "1971"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 142, "questions": "En quelle ann\u00e9e Claude Monet est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["161", "1799", "1838", "1926"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 143, "questions": "En quelle ann\u00e9e Louis Daguerre est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1341 BC", "1851", "1566", "1828"], "label": 1, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 144, "questions": "En quelle ann\u00e9e Denis Diderot est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1542", "69 BC", "1784", "1859"], "label": 2, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 145, "questions": "En quelle ann\u00e9e Charles de Gaulle est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1534", "1754", "1451", "1970"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 146, "questions": "En quelle ann\u00e9e Louis XVI est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1793", "1860", "1799", "1893"], "label": 0, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 147, "questions": "En quelle ann\u00e9e Louis XIV est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1909", "1715", "1870", "1473"], "label": 1, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 148, "questions": "En quelle ann\u00e9e Marie-Antoinette est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1542", "1887", "1566", "1793"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 149, "questions": "En quelle ann\u00e9e Ren\u00e9 Descartes est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1818", "1911", "1922", "1650"], "label": 3, "original_lang": "fr", "sent_lang": "fr"}
+{"id": 150, "questions": "En quelle ann\u00e9e Victor-Emmanuel II est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1859", "1920", "1839", "1878"], "label": 3, "original_lang": "it", "sent_lang": "fr"}
+{"id": 151, "questions": "En quelle ann\u00e9e Christophe Colomb est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1918", "1878", "1874", "1506"], "label": 3, "original_lang": "it", "sent_lang": "fr"}
+{"id": 152, "questions": "En quelle ann\u00e9e Paul VI est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1371", "1978", "1571", "1523"], "label": 1, "original_lang": "it", "sent_lang": "fr"}
+{"id": 153, "questions": "En quelle ann\u00e9e Federico Fellini est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1735", "1596", "1993", "1935"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 154, "questions": "En quelle ann\u00e9e Galil\u00e9e est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["69 BC", "1328", "161", "1642"], "label": 3, "original_lang": "it", "sent_lang": "fr"}
+{"id": 155, "questions": "En quelle ann\u00e9e L\u00e9onard de Vinci est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1571", "1810", "1519", "1564"], "label": 2, "original_lang": "it", "sent_lang": "fr"}
+{"id": 156, "questions": "En quelle ann\u00e9e Michel-Ange Buronarroti est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1564", "830", "551 BC", "1839"], "label": 0, "original_lang": "it", "sent_lang": "fr"}
+{"id": 157, "questions": "En quelle ann\u00e9e Guglielmo Marconi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1638", "1537", "1809", "1937"], "label": 3, "original_lang": "it", "sent_lang": "fr"}
+{"id": 158, "questions": "En quelle ann\u00e9e Antonio Vivaldi est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1728", "1912", "1564", "1741"], "label": 3, "original_lang": "it", "sent_lang": "fr"}
+{"id": 159, "questions": "En quelle ann\u00e9e Giacomo Puccini est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1885", "1924", "1678", "1859"], "label": 1, "original_lang": "it", "sent_lang": "fr"}
+{"id": 160, "questions": "En quelle ann\u00e9e Sigismond III de Pologne est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1632", "967", "1835", "1537"], "label": 0, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 161, "questions": "En quelle ann\u00e9e Boleslas Ier est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1874", "1025", "1596", "1897"], "label": 1, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 162, "questions": "En quelle ann\u00e9e Fr\u00e9d\u00e9ric Chopin est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1883", "1932", "1849", "1847"], "label": 2, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 163, "questions": "En quelle ann\u00e9e Jan Matejko est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1537", "1809", "1893", "1755"], "label": 2, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 164, "questions": "En quelle ann\u00e9e Nicolas Copernic est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1543", "1818", "1860", "1888"], "label": 0, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 165, "questions": "En quelle ann\u00e9e Jan D\u0142ugosz est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1713", "1480", "1415", "1475"], "label": 1, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 166, "questions": "En quelle ann\u00e9e Witold Pilecki est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["830", "1571", "1451", "1948"], "label": 3, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 167, "questions": "En quelle ann\u00e9e Stanis\u0142aw Staszic est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1756", "1826", "1858", "1920"], "label": 1, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 168, "questions": "En quelle ann\u00e9e Ignacy Krasicki est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1910", "1887", "1371", "1801"], "label": 3, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 169, "questions": "En quelle ann\u00e9e Anna Jagellon est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1787", "1866", "1874", "1596"], "label": 3, "original_lang": "pl", "sent_lang": "fr"}
+{"id": 170, "questions": "En quelle ann\u00e9e Pierre Ier de Russie est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1912", "1725", "1475", "1523"], "label": 1, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 171, "questions": "En quelle ann\u00e9e Riourik est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1371", "1713", "879", "1883"], "label": 2, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 172, "questions": "En quelle ann\u00e9e Alexandre II est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["156 BC", "1820", "1883", "1881"], "label": 3, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 173, "questions": "En quelle ann\u00e9e L\u00e9nine est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1858", "1924", "1755", "1596"], "label": 1, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 174, "questions": "En quelle ann\u00e9e Joseph Staline est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1953", "1765", "1838", "1809"], "label": 0, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 175, "questions": "En quelle ann\u00e9e Dmitri Chostakovitch est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1820", "1975", "1894", "1860"], "label": 1, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 176, "questions": "En quelle ann\u00e9e L\u00e9on Tolsto\u00ef est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1910", "1451", "1755", "1897"], "label": 0, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 177, "questions": "En quelle ann\u00e9e Alexandre Pouchkine est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1672", "1475", "1837", "1678"], "label": 2, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 178, "questions": "En quelle ann\u00e9e Anton Tchekhov est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1930", "1799", "1874", "1904"], "label": 3, "original_lang": "ru", "sent_lang": "fr"}
+{"id": 179, "questions": "En quelle ann\u00e9e Piotr Ilitch Tcha\u00efkovski est-il d\u00e9c\u00e9d\u00e9 ?", "answers": ["1912", "156 BC", "1893", "1303 BC"], "label": 2, "original_lang": "ru", "sent_lang": "fr"}

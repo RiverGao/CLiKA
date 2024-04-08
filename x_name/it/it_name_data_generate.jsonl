@@ -1,0 +1,180 @@
+{"id": 0, "questions": "In che anno \u00e8 nato l'Houari Boum\u00e9di\u00e8ne?", "answers": ["1820", "1828", "1838", "1932"], "label": 3, "original_lang": "ar", "sent_lang": "it"}
+{"id": 1, "questions": "In che anno \u00e8 nato l'Cleopatra?", "answers": ["1799", "1523", "1876", "69 BC"], "label": 3, "original_lang": "ar", "sent_lang": "it"}
+{"id": 2, "questions": "In che anno \u00e8 nato l'Anwar al-Sadat?", "answers": ["69 BC", "1895", "1918", "830"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 3, "questions": "In che anno \u00e8 nato l'Gamal Abd el-Nasser?", "answers": ["1537", "1918", "1678", "1534"], "label": 1, "original_lang": "ar", "sent_lang": "it"}
+{"id": 4, "questions": "In che anno \u00e8 nato l'Tutankhamon?", "answers": ["1895", "1912", "1341 BC", "1897"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 5, "questions": "In che anno \u00e8 nato l'Boutros Boutros-Ghali?", "answers": ["1922", "259 BC", "1475", "1844"], "label": 0, "original_lang": "ar", "sent_lang": "it"}
+{"id": 6, "questions": "In che anno \u00e8 nato l'Ramses II?", "answers": ["1859", "967", "1303 BC", "1920"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 7, "questions": "In che anno \u00e8 nato l'Husayn di Giordania?", "answers": ["1638", "1584", "1935", "1756"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 8, "questions": "In che anno \u00e8 nato l'Omar Sharif?", "answers": ["1303 BC", "1909", "1932", "1713"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 9, "questions": "In che anno \u00e8 nato l'Sa'd Zaghlul?", "answers": ["1859", "1874", "1839", "1894"], "label": 0, "original_lang": "ar", "sent_lang": "it"}
+{"id": 10, "questions": "In che anno \u00e8 nato l'Chiang Kai-shek?", "answers": ["1735", "1828", "1887", "1638"], "label": 2, "original_lang": "zh", "sent_lang": "it"}
+{"id": 11, "questions": "In che anno \u00e8 nato l'Mao Zedong?", "answers": ["1893", "161", "1769", "1566"], "label": 0, "original_lang": "zh", "sent_lang": "it"}
+{"id": 12, "questions": "In che anno \u00e8 nato l'Sun Yat-sen?", "answers": ["1839", "1866", "1918", "1818"], "label": 1, "original_lang": "zh", "sent_lang": "it"}
+{"id": 13, "questions": "In che anno \u00e8 nato l'Zheng He?", "answers": ["1534", "1932", "1909", "1371"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 14, "questions": "In che anno \u00e8 nato l'Hongwu?", "answers": ["1328", "1885", "1452", "69 BC"], "label": 0, "original_lang": "zh", "sent_lang": "it"}
+{"id": 15, "questions": "In che anno \u00e8 nato l'Han Wudi?", "answers": ["156 BC", "1534", "1728", "1901"], "label": 0, "original_lang": "zh", "sent_lang": "it"}
+{"id": 16, "questions": "In che anno \u00e8 nato l'Confucio?", "answers": ["69 BC", "1564", "551 BC", "1910"], "label": 2, "original_lang": "zh", "sent_lang": "it"}
+{"id": 17, "questions": "In che anno \u00e8 nato l'Cixi?", "answers": ["1328", "1887", "1835", "1818"], "label": 2, "original_lang": "zh", "sent_lang": "it"}
+{"id": 18, "questions": "In che anno \u00e8 nato l'Qin Shi Huang?", "answers": ["1839", "1596", "1935", "259 BC"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 19, "questions": "In che anno \u00e8 nato l'Liu Bei?", "answers": ["1910", "161", "1922", "1858"], "label": 1, "original_lang": "zh", "sent_lang": "it"}
+{"id": 20, "questions": "In che anno \u00e8 nato l'Thomas Edison?", "answers": ["1878", "1787", "1847", "1860"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 21, "questions": "In che anno \u00e8 nato l'Ginger Rogers?", "answers": ["1672", "1911", "1935", "967"], "label": 1, "original_lang": "en", "sent_lang": "it"}
+{"id": 22, "questions": "In che anno \u00e8 nato l'Babe Ruth?", "answers": ["1303 BC", "1897", "1895", "1844"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 23, "questions": "In che anno \u00e8 nato l'Robert Fulton?", "answers": ["1820", "1672", "1765", "1859"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 24, "questions": "In che anno \u00e8 nato l'Abraham Lincoln?", "answers": ["1571", "1303 BC", "1809", "1894"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 25, "questions": "In che anno \u00e8 nato l'James Cook?", "answers": ["1728", "1893", "1584", "1685"], "label": 0, "original_lang": "en", "sent_lang": "it"}
+{"id": 26, "questions": "In che anno \u00e8 nato l'Will Durant?", "answers": ["1672", "1885", "1571", "1920"], "label": 1, "original_lang": "en", "sent_lang": "it"}
+{"id": 27, "questions": "In che anno \u00e8 nato l'John Davison Rockefeller?", "answers": ["1839", "1922", "1935", "1537"], "label": 0, "original_lang": "en", "sent_lang": "it"}
+{"id": 28, "questions": "In che anno \u00e8 nato l'Alan Turing?", "answers": ["1452", "1912", "1475", "1876"], "label": 1, "original_lang": "en", "sent_lang": "it"}
+{"id": 29, "questions": "In che anno \u00e8 nato l'Johnny Mercer?", "answers": ["1932", "1909", "1787", "161"], "label": 1, "original_lang": "en", "sent_lang": "it"}
+{"id": 30, "questions": "In che anno \u00e8 nato l'Georg Wilhelm Friedrich Hegel?", "answers": ["1844", "1770", "967", "1878"], "label": 1, "original_lang": "de", "sent_lang": "it"}
+{"id": 31, "questions": "In che anno \u00e8 nato l'Johann Sebastian Bach?", "answers": ["1685", "830", "1912", "1927"], "label": 0, "original_lang": "de", "sent_lang": "it"}
+{"id": 32, "questions": "In che anno \u00e8 nato l'Ludwig van Beethoven?", "answers": ["1876", "1728", "1534", "1770"], "label": 3, "original_lang": "de", "sent_lang": "it"}
+{"id": 33, "questions": "In che anno \u00e8 nato l'Giovanni Keplero?", "answers": ["1571", "1887", "1928", "1935"], "label": 0, "original_lang": "de", "sent_lang": "it"}
+{"id": 34, "questions": "In che anno \u00e8 nato l'Konrad Adenauer?", "answers": ["1928", "1876", "830", "1818"], "label": 1, "original_lang": "de", "sent_lang": "it"}
+{"id": 35, "questions": "In che anno \u00e8 nato l'G\u00fcnter Grass?", "answers": ["1927", "1901", "1765", "1473"], "label": 0, "original_lang": "de", "sent_lang": "it"}
+{"id": 36, "questions": "In che anno \u00e8 nato l'Karl Benz?", "answers": ["1888", "1835", "1876", "1844"], "label": 3, "original_lang": "de", "sent_lang": "it"}
+{"id": 37, "questions": "In che anno \u00e8 nato l'Oskar Schlemmer?", "answers": ["1584", "1935", "1888", "1678"], "label": 2, "original_lang": "de", "sent_lang": "it"}
+{"id": 38, "questions": "In che anno \u00e8 nato l'Helmut Kohl?", "answers": ["1584", "1860", "1930", "1918"], "label": 2, "original_lang": "de", "sent_lang": "it"}
+{"id": 39, "questions": "In che anno \u00e8 nato l'Wolfgang Amadeus Mozart?", "answers": ["156 BC", "1371", "1878", "1756"], "label": 3, "original_lang": "de", "sent_lang": "it"}
+{"id": 40, "questions": "In che anno \u00e8 nato l'Hirohito?", "answers": ["1901", "1932", "1564", "1838"], "label": 0, "original_lang": "ja", "sent_lang": "it"}
+{"id": 41, "questions": "In che anno \u00e8 nato l'Toyotomi Hideyoshi?", "answers": ["1927", "1883", "1835", "1537"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 42, "questions": "In che anno \u00e8 nato l'Toshir\u014d Mifune?", "answers": ["1838", "1922", "1910", "1920"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 43, "questions": "In che anno \u00e8 nato l'Akira Kurosawa?", "answers": ["1910", "161", "1809", "1537"], "label": 0, "original_lang": "ja", "sent_lang": "it"}
+{"id": 44, "questions": "In che anno \u00e8 nato l'Tokugawa Ieyasu?", "answers": ["1828", "1542", "259 BC", "1920"], "label": 1, "original_lang": "ja", "sent_lang": "it"}
+{"id": 45, "questions": "In che anno \u00e8 nato l'Miyamoto Musashi?", "answers": ["1475", "1935", "1584", "1799"], "label": 2, "original_lang": "ja", "sent_lang": "it"}
+{"id": 46, "questions": "In che anno \u00e8 nato l'K\u014dnosuke Matsushita?", "answers": ["1678", "551 BC", "1911", "1894"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 47, "questions": "In che anno \u00e8 nato l'Hirobumi Ito?", "answers": ["1847", "1328", "1885", "1841"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 48, "questions": "In che anno \u00e8 nato l'Osamu Tezuka?", "answers": ["1566", "1728", "1928", "1756"], "label": 2, "original_lang": "ja", "sent_lang": "it"}
+{"id": 49, "questions": "In che anno \u00e8 nato l'Oda Nobunaga?", "answers": ["1912", "1596", "1888", "1534"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 50, "questions": "In che anno \u00e8 nato l'Napoleone Bonaparte?", "answers": ["1475", "1885", "1769", "156 BC"], "label": 2, "original_lang": "fr", "sent_lang": "it"}
+{"id": 51, "questions": "In che anno \u00e8 nato l'Coco Chanel?", "answers": ["1887", "1883", "1840", "1874"], "label": 1, "original_lang": "fr", "sent_lang": "it"}
+{"id": 52, "questions": "In che anno \u00e8 nato l'Claude Monet?", "answers": ["1910", "1838", "1534", "1840"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 53, "questions": "In che anno \u00e8 nato l'Louis Daguerre?", "answers": ["1901", "1841", "1787", "161"], "label": 2, "original_lang": "fr", "sent_lang": "it"}
+{"id": 54, "questions": "In che anno \u00e8 nato l'Denis Diderot?", "answers": ["1859", "1787", "1713", "1897"], "label": 2, "original_lang": "fr", "sent_lang": "it"}
+{"id": 55, "questions": "In che anno \u00e8 nato l'Charles de Gaulle?", "answers": ["1452", "1870", "1713", "1890"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 56, "questions": "In che anno \u00e8 nato l'Luigi XVI di Francia?", "answers": ["1769", "1859", "1876", "1754"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 57, "questions": "In che anno \u00e8 nato l'Luigi XIV di Francia?", "answers": ["1841", "1473", "1735", "1638"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 58, "questions": "In che anno \u00e8 nato l'Maria Antonietta d'Asburgo-Lorena?", "answers": ["1839", "1890", "1755", "1809"], "label": 2, "original_lang": "fr", "sent_lang": "it"}
+{"id": 59, "questions": "In che anno \u00e8 nato l'Cartesio?", "answers": ["1452", "1859", "1930", "1596"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 60, "questions": "In che anno \u00e8 nato l'Vittorio Emanuele II di Savoia?", "answers": ["1820", "1799", "1888", "1835"], "label": 0, "original_lang": "it", "sent_lang": "it"}
+{"id": 61, "questions": "In che anno \u00e8 nato l'Cristoforo Colombo?", "answers": ["1451", "1841", "1893", "1810"], "label": 0, "original_lang": "it", "sent_lang": "it"}
+{"id": 62, "questions": "In che anno \u00e8 nato l'papa Paolo VI?", "answers": ["1876", "1838", "1897", "1835"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 63, "questions": "In che anno \u00e8 nato l'Federico Fellini?", "answers": ["1765", "1897", "1927", "1920"], "label": 3, "original_lang": "it", "sent_lang": "it"}
+{"id": 64, "questions": "In che anno \u00e8 nato l'Galileo Galilei?", "answers": ["1810", "1844", "1564", "1452"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 65, "questions": "In che anno \u00e8 nato l'Leonardo da Vinci?", "answers": ["1932", "830", "1452", "1835"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 66, "questions": "In che anno \u00e8 nato l'Michelangelo Buonarroti?", "answers": ["1770", "1685", "1475", "1885"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 67, "questions": "In che anno \u00e8 nato l'Guglielmo Marconi?", "answers": ["1866", "1874", "1769", "967"], "label": 1, "original_lang": "it", "sent_lang": "it"}
+{"id": 68, "questions": "In che anno \u00e8 nato l'Antonio Vivaldi?", "answers": ["1769", "1930", "1678", "1888"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 69, "questions": "In che anno \u00e8 nato l'Giacomo Puccini?", "answers": ["1858", "1756", "1859", "1930"], "label": 0, "original_lang": "it", "sent_lang": "it"}
+{"id": 70, "questions": "In che anno \u00e8 nato l'Sigismondo III di Svezia?", "answers": ["1888", "1566", "1452", "1534"], "label": 1, "original_lang": "pl", "sent_lang": "it"}
+{"id": 71, "questions": "In che anno \u00e8 nato l'Boleslao I di Polonia?", "answers": ["1473", "967", "1818", "1935"], "label": 1, "original_lang": "pl", "sent_lang": "it"}
+{"id": 72, "questions": "In che anno \u00e8 nato l'Fryderyk Chopin?", "answers": ["1765", "1883", "1932", "1810"], "label": 3, "original_lang": "pl", "sent_lang": "it"}
+{"id": 73, "questions": "In che anno \u00e8 nato l'Jan Matejko?", "answers": ["1838", "1818", "161", "1415"], "label": 0, "original_lang": "pl", "sent_lang": "it"}
+{"id": 74, "questions": "In che anno \u00e8 nato l'Niccol\u00f2 Copernico?", "answers": ["1883", "69 BC", "1473", "1728"], "label": 2, "original_lang": "pl", "sent_lang": "it"}
+{"id": 75, "questions": "In che anno \u00e8 nato l'Jan D\u0142ugosz?", "answers": ["1415", "1932", "1935", "1888"], "label": 0, "original_lang": "pl", "sent_lang": "it"}
+{"id": 76, "questions": "In che anno \u00e8 nato l'Witold Pilecki?", "answers": ["1838", "1566", "1901", "1840"], "label": 2, "original_lang": "pl", "sent_lang": "it"}
+{"id": 77, "questions": "In che anno \u00e8 nato l'Stanis\u0142aw Staszic?", "answers": ["1765", "1920", "1755", "1371"], "label": 2, "original_lang": "pl", "sent_lang": "it"}
+{"id": 78, "questions": "In che anno \u00e8 nato l'Ignacy Krasicki?", "answers": ["1765", "1909", "1840", "1735"], "label": 3, "original_lang": "pl", "sent_lang": "it"}
+{"id": 79, "questions": "In che anno \u00e8 nato l'Anna Jagellona?", "answers": ["1818", "1523", "1893", "1927"], "label": 1, "original_lang": "pl", "sent_lang": "it"}
+{"id": 80, "questions": "In che anno \u00e8 nato l'Pietro I di Russia?", "answers": ["1672", "1895", "1756", "1534"], "label": 0, "original_lang": "ru", "sent_lang": "it"}
+{"id": 81, "questions": "In che anno \u00e8 nato l'Rjurik?", "answers": ["259 BC", "830", "1860", "1894"], "label": 1, "original_lang": "ru", "sent_lang": "it"}
+{"id": 82, "questions": "In che anno \u00e8 nato l'Alessandro II di Russia?", "answers": ["1928", "1911", "1451", "1818"], "label": 3, "original_lang": "ru", "sent_lang": "it"}
+{"id": 83, "questions": "In che anno \u00e8 nato l'Lenin?", "answers": ["1735", "1932", "967", "1870"], "label": 3, "original_lang": "ru", "sent_lang": "it"}
+{"id": 84, "questions": "In che anno \u00e8 nato l'Iosif Stalin?", "answers": ["1870", "69 BC", "1475", "1878"], "label": 3, "original_lang": "ru", "sent_lang": "it"}
+{"id": 85, "questions": "In che anno \u00e8 nato l'Dmitrij \u0160ostakovi\u010d?", "answers": ["69 BC", "1770", "1906", "1787"], "label": 2, "original_lang": "ru", "sent_lang": "it"}
+{"id": 86, "questions": "In che anno \u00e8 nato l'Lev Tolstoj?", "answers": ["1828", "1473", "156 BC", "1838"], "label": 0, "original_lang": "ru", "sent_lang": "it"}
+{"id": 87, "questions": "In che anno \u00e8 nato l'Aleksandr Sergeevi\u010d Pu\u0161kin?", "answers": ["1799", "1415", "1835", "1874"], "label": 0, "original_lang": "ru", "sent_lang": "it"}
+{"id": 88, "questions": "In che anno \u00e8 nato l'Anton Pavlovi\u010d \u010cechov?", "answers": ["1906", "1818", "1537", "1860"], "label": 3, "original_lang": "ru", "sent_lang": "it"}
+{"id": 89, "questions": "In che anno \u00e8 nato l'P\u00ebtr Il'i\u010d \u010cajkovskij?", "answers": ["1935", "1596", "1840", "1473"], "label": 2, "original_lang": "ru", "sent_lang": "it"}
+{"id": 90, "questions": "In che anno \u00e8 morto Houari Boum\u00e9di\u00e8ne?", "answers": ["1909", "1978", "551 BC", "1537"], "label": 1, "original_lang": "ar", "sent_lang": "it"}
+{"id": 91, "questions": "In che anno \u00e8 morto Cleopatra?", "answers": ["30 BC", "1371", "1770", "1897"], "label": 0, "original_lang": "ar", "sent_lang": "it"}
+{"id": 92, "questions": "In che anno \u00e8 morto Anwar al-Sadat?", "answers": ["967", "1754", "1981", "1828"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 93, "questions": "In che anno \u00e8 morto Gamal Abd el-Nasser?", "answers": ["1878", "1542", "1970", "1735"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 94, "questions": "In che anno \u00e8 morto Tutankhamon?", "answers": ["1876", "1859", "1323 BC", "1912"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 95, "questions": "In che anno \u00e8 morto Boutros Boutros-Ghali?", "answers": ["2016", "1878", "161", "1584"], "label": 0, "original_lang": "ar", "sent_lang": "it"}
+{"id": 96, "questions": "In che anno \u00e8 morto Ramses II?", "answers": ["1906", "1859", "1213 BC", "1885"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 97, "questions": "In che anno \u00e8 morto Husayn di Giordania?", "answers": ["1847", "1841", "1999", "1756"], "label": 2, "original_lang": "ar", "sent_lang": "it"}
+{"id": 98, "questions": "In che anno \u00e8 morto Omar Sharif?", "answers": ["1584", "2015", "830", "1920"], "label": 1, "original_lang": "ar", "sent_lang": "it"}
+{"id": 99, "questions": "In che anno \u00e8 morto Sa'd Zaghlul?", "answers": ["1876", "1415", "1770", "1927"], "label": 3, "original_lang": "ar", "sent_lang": "it"}
+{"id": 100, "questions": "In che anno \u00e8 morto Chiang Kai-shek?", "answers": ["1920", "1839", "1975", "69 BC"], "label": 2, "original_lang": "zh", "sent_lang": "it"}
+{"id": 101, "questions": "In che anno \u00e8 morto Mao Zedong?", "answers": ["967", "551 BC", "1887", "1976"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 102, "questions": "In che anno \u00e8 morto Sun Yat-sen?", "answers": ["1303 BC", "1685", "830", "1925"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 103, "questions": "In che anno \u00e8 morto Zheng He?", "answers": ["1564", "1433", "1860", "1874"], "label": 1, "original_lang": "zh", "sent_lang": "it"}
+{"id": 104, "questions": "In che anno \u00e8 morto Hongwu?", "answers": ["1398", "1932", "1885", "1888"], "label": 0, "original_lang": "zh", "sent_lang": "it"}
+{"id": 105, "questions": "In che anno \u00e8 morto Han Wudi?", "answers": ["1328", "1835", "1912", "87 BC"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 106, "questions": "In che anno \u00e8 morto Confucio?", "answers": ["1885", "1537", "1932", "479 BC"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 107, "questions": "In che anno \u00e8 morto Cixi?", "answers": ["1893", "1475", "1908", "1912"], "label": 2, "original_lang": "zh", "sent_lang": "it"}
+{"id": 108, "questions": "In che anno \u00e8 morto Qin Shi Huang?", "answers": ["1328", "1866", "1756", "210 BC"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 109, "questions": "In che anno \u00e8 morto Liu Bei?", "answers": ["1542", "1828", "1818", "233"], "label": 3, "original_lang": "zh", "sent_lang": "it"}
+{"id": 110, "questions": "In che anno \u00e8 morto Thomas Edison?", "answers": ["1901", "1341 BC", "1931", "1906"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 111, "questions": "In che anno \u00e8 morto Ginger Rogers?", "answers": ["1542", "1995", "1328", "1735"], "label": 1, "original_lang": "en", "sent_lang": "it"}
+{"id": 112, "questions": "In che anno \u00e8 morto Babe Ruth?", "answers": ["1948", "1799", "1735", "1922"], "label": 0, "original_lang": "en", "sent_lang": "it"}
+{"id": 113, "questions": "In che anno \u00e8 morto Robert Fulton?", "answers": ["1809", "1895", "1815", "1638"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 114, "questions": "In che anno \u00e8 morto Abraham Lincoln?", "answers": ["259 BC", "1894", "1865", "1818"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 115, "questions": "In che anno \u00e8 morto James Cook?", "answers": ["1779", "1912", "1922", "1876"], "label": 0, "original_lang": "en", "sent_lang": "it"}
+{"id": 116, "questions": "In che anno \u00e8 morto Will Durant?", "answers": ["1820", "1981", "1638", "1895"], "label": 1, "original_lang": "en", "sent_lang": "it"}
+{"id": 117, "questions": "In che anno \u00e8 morto John Davison Rockefeller?", "answers": ["1820", "156 BC", "1937", "1755"], "label": 2, "original_lang": "en", "sent_lang": "it"}
+{"id": 118, "questions": "In che anno \u00e8 morto Alan Turing?", "answers": ["1954", "1888", "1596", "1928"], "label": 0, "original_lang": "en", "sent_lang": "it"}
+{"id": 119, "questions": "In che anno \u00e8 morto Johnny Mercer?", "answers": ["1976", "1893", "1735", "1769"], "label": 0, "original_lang": "en", "sent_lang": "it"}
+{"id": 120, "questions": "In che anno \u00e8 morto Georg Wilhelm Friedrich Hegel?", "answers": ["1895", "1831", "1841", "1930"], "label": 1, "original_lang": "de", "sent_lang": "it"}
+{"id": 121, "questions": "In che anno \u00e8 morto Johann Sebastian Bach?", "answers": ["1883", "1750", "1922", "1534"], "label": 1, "original_lang": "de", "sent_lang": "it"}
+{"id": 122, "questions": "In che anno \u00e8 morto Ludwig van Beethoven?", "answers": ["1827", "551 BC", "1897", "1838"], "label": 0, "original_lang": "de", "sent_lang": "it"}
+{"id": 123, "questions": "In che anno \u00e8 morto Giovanni Keplero?", "answers": ["1713", "551 BC", "1918", "1630"], "label": 3, "original_lang": "de", "sent_lang": "it"}
+{"id": 124, "questions": "In che anno \u00e8 morto Konrad Adenauer?", "answers": ["1685", "1967", "1678", "830"], "label": 1, "original_lang": "de", "sent_lang": "it"}
+{"id": 125, "questions": "In che anno \u00e8 morto G\u00fcnter Grass?", "answers": ["2015", "259 BC", "1894", "1922"], "label": 0, "original_lang": "de", "sent_lang": "it"}
+{"id": 126, "questions": "In che anno \u00e8 morto Karl Benz?", "answers": ["1859", "1876", "1685", "1929"], "label": 3, "original_lang": "de", "sent_lang": "it"}
+{"id": 127, "questions": "In che anno \u00e8 morto Oskar Schlemmer?", "answers": ["1799", "1841", "1943", "1473"], "label": 2, "original_lang": "de", "sent_lang": "it"}
+{"id": 128, "questions": "In che anno \u00e8 morto Helmut Kohl?", "answers": ["2017", "551 BC", "1883", "1537"], "label": 0, "original_lang": "de", "sent_lang": "it"}
+{"id": 129, "questions": "In che anno \u00e8 morto Wolfgang Amadeus Mozart?", "answers": ["1415", "1328", "1791", "1341 BC"], "label": 2, "original_lang": "de", "sent_lang": "it"}
+{"id": 130, "questions": "In che anno \u00e8 morto Hirohito?", "answers": ["1989", "1566", "1894", "1523"], "label": 0, "original_lang": "ja", "sent_lang": "it"}
+{"id": 131, "questions": "In che anno \u00e8 morto Toyotomi Hideyoshi?", "answers": ["1809", "1883", "1598", "1820"], "label": 2, "original_lang": "ja", "sent_lang": "it"}
+{"id": 132, "questions": "In che anno \u00e8 morto Toshir\u014d Mifune?", "answers": ["1997", "1901", "1932", "1769"], "label": 0, "original_lang": "ja", "sent_lang": "it"}
+{"id": 133, "questions": "In che anno \u00e8 morto Akira Kurosawa?", "answers": ["1371", "1998", "1888", "1523"], "label": 1, "original_lang": "ja", "sent_lang": "it"}
+{"id": 134, "questions": "In che anno \u00e8 morto Tokugawa Ieyasu?", "answers": ["1799", "1616", "1844", "1909"], "label": 1, "original_lang": "ja", "sent_lang": "it"}
+{"id": 135, "questions": "In che anno \u00e8 morto Miyamoto Musashi?", "answers": ["1799", "1645", "1918", "1371"], "label": 1, "original_lang": "ja", "sent_lang": "it"}
+{"id": 136, "questions": "In che anno \u00e8 morto K\u014dnosuke Matsushita?", "answers": ["1989", "1918", "967", "1844"], "label": 0, "original_lang": "ja", "sent_lang": "it"}
+{"id": 137, "questions": "In che anno \u00e8 morto Hirobumi Ito?", "answers": ["1638", "1909", "1895", "1887"], "label": 1, "original_lang": "ja", "sent_lang": "it"}
+{"id": 138, "questions": "In che anno \u00e8 morto Osamu Tezuka?", "answers": ["1841", "1918", "1883", "1989"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 139, "questions": "In che anno \u00e8 morto Oda Nobunaga?", "answers": ["1371", "1523", "1810", "1582"], "label": 3, "original_lang": "ja", "sent_lang": "it"}
+{"id": 140, "questions": "In che anno \u00e8 morto Napoleone Bonaparte?", "answers": ["1920", "1821", "1756", "1451"], "label": 1, "original_lang": "fr", "sent_lang": "it"}
+{"id": 141, "questions": "In che anno \u00e8 morto Coco Chanel?", "answers": ["1920", "1922", "1894", "1971"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 142, "questions": "In che anno \u00e8 morto Claude Monet?", "answers": ["161", "1799", "1838", "1926"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 143, "questions": "In che anno \u00e8 morto Louis Daguerre?", "answers": ["1341 BC", "1851", "1566", "1828"], "label": 1, "original_lang": "fr", "sent_lang": "it"}
+{"id": 144, "questions": "In che anno \u00e8 morto Denis Diderot?", "answers": ["1542", "69 BC", "1784", "1859"], "label": 2, "original_lang": "fr", "sent_lang": "it"}
+{"id": 145, "questions": "In che anno \u00e8 morto Charles de Gaulle?", "answers": ["1534", "1754", "1451", "1970"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 146, "questions": "In che anno \u00e8 morto Luigi XVI di Francia?", "answers": ["1793", "1860", "1799", "1893"], "label": 0, "original_lang": "fr", "sent_lang": "it"}
+{"id": 147, "questions": "In che anno \u00e8 morto Luigi XIV di Francia?", "answers": ["1909", "1715", "1870", "1473"], "label": 1, "original_lang": "fr", "sent_lang": "it"}
+{"id": 148, "questions": "In che anno \u00e8 morto Maria Antonietta d'Asburgo-Lorena?", "answers": ["1542", "1887", "1566", "1793"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 149, "questions": "In che anno \u00e8 morto Cartesio?", "answers": ["1818", "1911", "1922", "1650"], "label": 3, "original_lang": "fr", "sent_lang": "it"}
+{"id": 150, "questions": "In che anno \u00e8 morto Vittorio Emanuele II di Savoia?", "answers": ["1859", "1920", "1839", "1878"], "label": 3, "original_lang": "it", "sent_lang": "it"}
+{"id": 151, "questions": "In che anno \u00e8 morto Cristoforo Colombo?", "answers": ["1918", "1878", "1874", "1506"], "label": 3, "original_lang": "it", "sent_lang": "it"}
+{"id": 152, "questions": "In che anno \u00e8 morto papa Paolo VI?", "answers": ["1371", "1978", "1571", "1523"], "label": 1, "original_lang": "it", "sent_lang": "it"}
+{"id": 153, "questions": "In che anno \u00e8 morto Federico Fellini?", "answers": ["1735", "1596", "1993", "1935"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 154, "questions": "In che anno \u00e8 morto Galileo Galilei?", "answers": ["69 BC", "1328", "161", "1642"], "label": 3, "original_lang": "it", "sent_lang": "it"}
+{"id": 155, "questions": "In che anno \u00e8 morto Leonardo da Vinci?", "answers": ["1571", "1810", "1519", "1564"], "label": 2, "original_lang": "it", "sent_lang": "it"}
+{"id": 156, "questions": "In che anno \u00e8 morto Michelangelo Buonarroti?", "answers": ["1564", "830", "551 BC", "1839"], "label": 0, "original_lang": "it", "sent_lang": "it"}
+{"id": 157, "questions": "In che anno \u00e8 morto Guglielmo Marconi?", "answers": ["1638", "1537", "1809", "1937"], "label": 3, "original_lang": "it", "sent_lang": "it"}
+{"id": 158, "questions": "In che anno \u00e8 morto Antonio Vivaldi?", "answers": ["1728", "1912", "1564", "1741"], "label": 3, "original_lang": "it", "sent_lang": "it"}
+{"id": 159, "questions": "In che anno \u00e8 morto Giacomo Puccini?", "answers": ["1885", "1924", "1678", "1859"], "label": 1, "original_lang": "it", "sent_lang": "it"}
+{"id": 160, "questions": "In che anno \u00e8 morto Sigismondo III di Svezia?", "answers": ["1632", "967", "1835", "1537"], "label": 0, "original_lang": "pl", "sent_lang": "it"}
+{"id": 161, "questions": "In che anno \u00e8 morto Boleslao I di Polonia?", "answers": ["1874", "1025", "1596", "1897"], "label": 1, "original_lang": "pl", "sent_lang": "it"}
+{"id": 162, "questions": "In che anno \u00e8 morto Fryderyk Chopin?", "answers": ["1883", "1932", "1849", "1847"], "label": 2, "original_lang": "pl", "sent_lang": "it"}
+{"id": 163, "questions": "In che anno \u00e8 morto Jan Matejko?", "answers": ["1537", "1809", "1893", "1755"], "label": 2, "original_lang": "pl", "sent_lang": "it"}
+{"id": 164, "questions": "In che anno \u00e8 morto Niccol\u00f2 Copernico?", "answers": ["1543", "1818", "1860", "1888"], "label": 0, "original_lang": "pl", "sent_lang": "it"}
+{"id": 165, "questions": "In che anno \u00e8 morto Jan D\u0142ugosz?", "answers": ["1713", "1480", "1415", "1475"], "label": 1, "original_lang": "pl", "sent_lang": "it"}
+{"id": 166, "questions": "In che anno \u00e8 morto Witold Pilecki?", "answers": ["830", "1571", "1451", "1948"], "label": 3, "original_lang": "pl", "sent_lang": "it"}
+{"id": 167, "questions": "In che anno \u00e8 morto Stanis\u0142aw Staszic?", "answers": ["1756", "1826", "1858", "1920"], "label": 1, "original_lang": "pl", "sent_lang": "it"}
+{"id": 168, "questions": "In che anno \u00e8 morto Ignacy Krasicki?", "answers": ["1910", "1887", "1371", "1801"], "label": 3, "original_lang": "pl", "sent_lang": "it"}
+{"id": 169, "questions": "In che anno \u00e8 morto Anna Jagellona?", "answers": ["1787", "1866", "1874", "1596"], "label": 3, "original_lang": "pl", "sent_lang": "it"}
+{"id": 170, "questions": "In che anno \u00e8 morto Pietro I di Russia?", "answers": ["1912", "1725", "1475", "1523"], "label": 1, "original_lang": "ru", "sent_lang": "it"}
+{"id": 171, "questions": "In che anno \u00e8 morto Rjurik?", "answers": ["1371", "1713", "879", "1883"], "label": 2, "original_lang": "ru", "sent_lang": "it"}
+{"id": 172, "questions": "In che anno \u00e8 morto Alessandro II di Russia?", "answers": ["156 BC", "1820", "1883", "1881"], "label": 3, "original_lang": "ru", "sent_lang": "it"}
+{"id": 173, "questions": "In che anno \u00e8 morto Lenin?", "answers": ["1858", "1924", "1755", "1596"], "label": 1, "original_lang": "ru", "sent_lang": "it"}
+{"id": 174, "questions": "In che anno \u00e8 morto Iosif Stalin?", "answers": ["1953", "1765", "1838", "1809"], "label": 0, "original_lang": "ru", "sent_lang": "it"}
+{"id": 175, "questions": "In che anno \u00e8 morto Dmitrij \u0160ostakovi\u010d?", "answers": ["1820", "1975", "1894", "1860"], "label": 1, "original_lang": "ru", "sent_lang": "it"}
+{"id": 176, "questions": "In che anno \u00e8 morto Lev Tolstoj?", "answers": ["1910", "1451", "1755", "1897"], "label": 0, "original_lang": "ru", "sent_lang": "it"}
+{"id": 177, "questions": "In che anno \u00e8 morto Aleksandr Sergeevi\u010d Pu\u0161kin?", "answers": ["1672", "1475", "1837", "1678"], "label": 2, "original_lang": "ru", "sent_lang": "it"}
+{"id": 178, "questions": "In che anno \u00e8 morto Anton Pavlovi\u010d \u010cechov?", "answers": ["1930", "1799", "1874", "1904"], "label": 3, "original_lang": "ru", "sent_lang": "it"}
+{"id": 179, "questions": "In che anno \u00e8 morto P\u00ebtr Il'i\u010d \u010cajkovskij?", "answers": ["1912", "156 BC", "1893", "1303 BC"], "label": 2, "original_lang": "ru", "sent_lang": "it"}
